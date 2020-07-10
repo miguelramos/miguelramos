@@ -4,13 +4,17 @@
 **miguelramos/miguelramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+----
+
+- 🔭 I’m currently working on Prozis as Senior Frontend Engineer
+- 🌱 I’m currently learning VueJS
+- 👯 I’m looking to collaborate on Open Source
+- 🤔 I’m looking for help with great ideas
+- 💬 Ask me about angular
+- 📫 How to reach me: 🐦 @miguelonspring 🇵🇹
+- ⚡ Fun fact: Gibson LesPaul is awesome!!!
+
+----
+
+![](present.gif)
