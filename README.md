@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ----
 
-![](present.gif)
+<img src="https://github.com/miguelramos/miguelramos/blob/master/present.gif">
