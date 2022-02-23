@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 ----
 
-- 🔭 I’m currently working on Prozis as Senior Frontend Engineer
+- 🔭 I’m currently working on MB.io as Senior Frontend Engineer
 - 🌱 I’m currently learning VueJS
 - 👯 I’m looking to collaborate on Open Source
 - 🤔 I’m looking for help with great ideas
